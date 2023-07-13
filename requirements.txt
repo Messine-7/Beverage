@@ -4,8 +4,7 @@ pandas
 requests
 pandas 
 datetime 
-plotly.express
+plotly
 seaborn
 timedelta
-plotly.graph_objects
 gunicorn
