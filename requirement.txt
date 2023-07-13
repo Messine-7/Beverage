@@ -12,4 +12,4 @@ plotly.express
 seaborn
 timedelta
 plotly.graph_objects
-unicorn
+gunicorn
