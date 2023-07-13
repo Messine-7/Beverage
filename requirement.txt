@@ -1,7 +1,4 @@
 dash
-dash import dcc, dash_table
-dash import html, ctx, callback
-dash.dependencies import Output, Input
 idash_bootstrap_components
 pandas
 json
