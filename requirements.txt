@@ -1,5 +1,5 @@
 dash
-idash_bootstrap_components
+dash_bootstrap_components
 pandas
 json
 requests
